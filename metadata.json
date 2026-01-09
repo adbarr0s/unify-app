@@ -1,0 +1,10 @@
+
+{
+  "name": "Unify: Integração & Apoio",
+  "description": "Uma plataforma de utilidade pública para imigrantes e refugiados, oferecendo análise de documentos por IA, busca de recursos locais em tempo real e assistência por voz para superar barreiras linguísticas e burocráticas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
